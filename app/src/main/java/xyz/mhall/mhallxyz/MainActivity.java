@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(myWebView);
 
 
-        Toast.makeText(getApplicationContext(), "It Works!!!!!", 10000).show();
+        Toast.makeText(getApplicationContext(), "Connecting to Server...", 10000).show();
     }
 }
